@@ -10,3 +10,4 @@ After that, each line contains respectively four integers (separated by spaces) 
 
 The program calculates the minimum number of people that Biden would have to convince to earn the US presidency. If it is not possible for Mr. Biden to win the election, the algorithm outputs
 the integer −1.
+
